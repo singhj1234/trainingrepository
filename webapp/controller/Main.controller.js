@@ -3,7 +3,7 @@ sap.ui.define([
 ], (Controller) => {
     "use strict";
 
-    return Controller.extend("student.com.sap.training.advancedsapui5.repository.controller.Main", {
+    return Controller.extend("student.com.sap.training.advancedsapui5.repository.controller.Detail", {
         onInit() {
         }
     });
